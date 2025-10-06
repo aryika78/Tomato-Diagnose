@@ -60,10 +60,4 @@ Input: JSON or image data
 
 Output: Prediction results: “Early Blight”, “Late Blight”, or “Healthy”
 
-### 📌 Notes
-Docker is optional and not required for local development
-
-Make sure Python 3.10+ and Node.js are installed
-
-Virtual environment recommended for backend
 
